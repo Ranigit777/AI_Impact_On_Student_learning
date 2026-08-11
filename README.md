@@ -666,6 +666,13 @@ pip install -r requirements.txt
 This project is intended for **academic and educational purposes**. Please cite appropriately if used in research or coursework.
 
 ---
+## Clone
+git clone https://github.com/Ranigit777/AI_Impact_On_Student_learning.git
+cd AI_Impact_On_Student_learning
+python -m venv venv
+.\venv\Scripts\Activate.ps1   # Windows
+pip install -r requirements.txt
+streamlit run app/streamlit_app.py
 
 <p align="center">
   <strong>AI Impact on Student Learning – Burnout Risk Prediction</strong><br>
